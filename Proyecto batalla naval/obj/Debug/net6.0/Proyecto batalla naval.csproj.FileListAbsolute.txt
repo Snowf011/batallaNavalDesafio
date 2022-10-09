@@ -1,0 +1,45 @@
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.exe
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.deps.json
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.runtimeconfig.json
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.dll
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.pdb
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.csproj.AssemblyReference.cache
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.AssemblyInfoInputs.cache
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.AssemblyInfo.cs
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.csproj.CoreCompileInputs.cache
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.dll
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/refint/Proyecto batalla naval.dll
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.pdb
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.genruntimeconfig.cache
+C:/Users/Mike/OneDrive/Desktop/mauri tarea/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/ref/Proyecto batalla naval.dll
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.deps.json
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.runtimeconfig.json
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.dll
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/bin/Debug/net6.0/Proyecto batalla naval.pdb
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.csproj.AssemblyReference.cache
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.AssemblyInfoInputs.cache
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.AssemblyInfo.cs
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.csproj.CoreCompileInputs.cache
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.dll
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/refint/Proyecto batalla naval.dll
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.pdb
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/Proyecto batalla naval.genruntimeconfig.cache
+/Users/samuelveizaga/Desktop/Proyecto batalla naval/Proyecto batalla naval/obj/Debug/net6.0/ref/Proyecto batalla naval.dll
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\bin\Debug\net6.0\Proyecto batalla naval.exe
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\bin\Debug\net6.0\Proyecto batalla naval.deps.json
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\bin\Debug\net6.0\Proyecto batalla naval.runtimeconfig.json
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\bin\Debug\net6.0\Proyecto batalla naval.dll
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\bin\Debug\net6.0\Proyecto batalla naval.pdb
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.csproj.AssemblyReference.cache
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.AssemblyInfoInputs.cache
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.AssemblyInfo.cs
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.dll
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\refint\Proyecto batalla naval.dll
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.pdb
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\Proyecto batalla naval.genruntimeconfig.cache
+C:\Users\Mike\OneDrive\Desktop\Proyecto batalla naval\Proyecto batalla naval\obj\Debug\net6.0\ref\Proyecto batalla naval.dll
